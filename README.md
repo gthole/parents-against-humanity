@@ -17,7 +17,7 @@ Want to add or modify some cards?  There's a short shell script to help!  Just
 remember to commit the resulting PDF to the repo.
 
 ```bash
-$ sh generate.sh
+$ ./generate.sh
 ```
 
 ## License
