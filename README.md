@@ -7,6 +7,10 @@ This is an expansion (perhaps with more cards, a stand-alone version) of
 and play cards with your friends while still implicitly talking about how
 special your darling bundle is.
 
+## Using this Set
+
+[Download the PDF](https://github.com/gthole/parents-against-humanity/blob/master/parents-against-humanity.pdf?raw=true) and follow the instructions in the [original CAH set](http://s3.amazonaws.com/cah/CAH_MainGame.pdf).
+
 ## Generating cards
 
 Want to add or modify some cards?  There's a short shell script to help!  Just
