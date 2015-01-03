@@ -10,7 +10,9 @@ fi
 cd bbcards
 
 # Install the gem dependency
-gem install prawn
+if ! gem list --local | grep prawn
+  then gem install prawn
+fi
 
 # Run the generation code
 ./bbcards.rb -s \
