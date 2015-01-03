@@ -1,0 +1,3 @@
+[submodule "bbcards"]
+	path = bbcards
+	url = https://github.com/bbcards/bbcards
