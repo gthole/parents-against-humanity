@@ -96,7 +96,7 @@ The "You're pooping right now aren't you" face
 Choo choo trains
 Just a few things from Target
 An ancient zip-lock bag of possibly dirty clothes
-"Mom. Mom. Mom! Mooom. Mom?" "What?" "Um, I forgot."
+"Mom. Mom. Mom! Mooom. Mom? Mom!"\n\n"What?"\n\n"Um, I forgot."
 When the kids are too quiet.
 The 2.3 seconds between "my tummy hurts" and vomit in your bed
 The three second rule

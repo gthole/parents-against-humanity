@@ -27,7 +27,7 @@ Why won't you sleep?
 Santa really wants you to leave a plate of ___.
 For show and tell, I brought ___.
 Newly appropriate dinner party conversation topic.
-Daddy? Why is ___ like ___?
+Daddy?\n\nWhy is ___ ___?
 A ___ a day keeps the doctor away!
 I discovered a way to replace sleeping with ___.
 Can I have another?
