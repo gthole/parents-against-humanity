@@ -22,3 +22,18 @@ fi
   -o ../parents-against-humanity.pdf
 
 echo "Generated cards to parents-against-humanity.pdf"
+
+if [ ! -f "../cardbacks.pdf" ]; then
+  echo "Generating card backs"
+  mkdir -p ../tmp
+  for i in {1..20}; do
+    echo "\\nParents\\nAgainst Humanity" >> ../tmp/black.txt
+    echo "\\nParents\\nAgainst Humanity" >> ../tmp/white.txt
+  done
+  ./bbcards.rb -s \
+    -b ../tmp/black.txt \
+    -w ../tmp/white.txt \
+    -o ../cardbacks.pdf
+  rm -rf ../tmp
+fi
+
