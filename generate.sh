@@ -27,13 +27,13 @@ if [ ! -f "../cardbacks.pdf" ]; then
   echo "Generating card backs"
   mkdir -p ../tmp
   for i in {1..20}; do
-    echo "\\nParents\\nAgainst Humanity" >> ../tmp/black.txt
-    echo "\\nParents\\nAgainst Humanity" >> ../tmp/white.txt
+    echo "\\n Parents\\n Against Humanity" >> ../tmp/black.txt
+    echo "\\n Parents\\n Against Humanity" >> ../tmp/white.txt
   done
-  ./bbcards.rb -s \
+  ./bbcards.rb -s -g \
     -b ../tmp/black.txt \
     -w ../tmp/white.txt \
     -o ../cardbacks.pdf
-  rm -rf ../tmp
+  rm ../tmp/black.txt ../tmp/white.txt
 fi
 
