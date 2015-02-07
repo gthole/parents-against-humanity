@@ -2,6 +2,9 @@ Parents Against Humanity
 ========================
 A card set for horrible parents.
 
+![Parents Against
+Humanity](https://github.com/gthole/parents-against-humanity/blob/master/icon.png?raw=true)
+
 This is an expansion (perhaps with more cards, a stand-alone version) of 
 [Cards Against Humanity](http://cardsagainsthumanity.com/).  Use it to drink
 and play cards with your friends while still implicitly talking about how
